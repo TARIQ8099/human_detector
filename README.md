@@ -1,4 +1,4 @@
-# Human Detector 🎯
+[detections (2).csv](https://github.com/user-attachments/files/31917121/detections.2.csv)# Human Detector 🎯
 
 A real-time object detection pipeline built with **YOLOv8** and **OpenCV** that processes video files, annotates detected objects, logs results to CSV, and generates a summary detection report. Runs both **locally** (with a live preview window) and in **Google Colab** (with periodic frame previews) using the same script.
 
@@ -145,6 +145,11 @@ person: 1187
 | 1     | person | 0.87       |
 | 1     | person | 0.79       |
 | 2     | person | 0.91       |
+
+[Uplo
+https://github.com/user-attachments/assets/b5b2e096-b7da-4f35-9763-8c197917cefb
+ading detections (2).csv…]()
+
 
 ---
 
